@@ -14,7 +14,7 @@ Library used / 使用ライブラリー: Simple Fast Media Library
 The game can be played by opening the Onslaught.exe file, located inside the Onslaught_build folder. The .exe file must be in the same location as the resources folder.
 
 ** If windows security does not allow you to start Onslaught.exe, you must open the file directly from Terminal/PowerShell. 
-An easy way to do so is to :
+Steps :
 1. Open the Onslaught_build folder.
 2. Shift+Right click some open space in the folder
 3. Click on "Open PowerShell Window here"
@@ -24,10 +24,10 @@ An easy way to do so is to :
 
 ゲームは　Onslaught_build　内にある実行ファイル　Onslaught.exe　を開くと起動する。このファイルは　resourcesと同じ場所でないと起動しません。
 
-＊＊WindowsセキュリティーでOnslaught.exeが開かない場合、ファイルを Terminal/PowerShell で直接開かないといけません。
+＊＊WindowsセキュリティーでOnslaught.exeが開かない場合、ファイルを Terminal/PowerShell で直接開けます。
 手順　：
 1. Onslaught_build フォルダーを開く
-2. フォルダーないの空白（どこでも）を　Shift + 右クリック
+2. フォルダー内の空白（どこでも）を　Shift + 右クリック
 3. PowerShellウィンドウをここで開く　をクリック
 4. PowerShellが開くと、そこに " ./Onslaught.exe " を入力し、Enterキーを押す
 
