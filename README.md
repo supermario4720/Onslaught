@@ -6,6 +6,11 @@ A 2D top view rogue-like game made by Haratake Kentaro. The game includes tower 
 ## 概要
 原武健太郎によって制作された、2Dトップビューのアクションローグライクゲームです。建築物（防衛塔など）の設置といったタワーディフェンス要素もあります。ゲームの目的はプレイヤーの生存と、街を敵から守り抜くことです。
 
+## Setup
+The game can be played by opening the Onslaught.exe file, located inside the Onslaught_build folder. The .exe file must be in the same location as the resources folder.
+
+In the case that windows security does not allow you to start Onslaught.exe, you must start the program directly from terminal. 
+
 
 ## Controls
 WASD                         -> Movement        /  移動
