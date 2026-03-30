@@ -1,9 +1,10 @@
 # Onslaught
 
 ## Description
-A 2D top view rogue-like game made by Haratake Kentaro. By introducing tower defence aspects and player growth (rogue-like), game progression becomes more unique. The objective is that the player stays alive while protecting the town from enemies. 
+A 2D top view rogue-like game made by Haratake Kentaro. The game includes tower defence aspects by allowing players to place towers. The objective is that the player stays alive while protecting the town from enemies. 
 
 ## 概要
+原武健太郎によって制作された、2Dトップビューのアクションローグライクゲームです。建築物（防衛塔など）の設置といったタワーディフェンス要素もあります。ゲームの目的はプレイヤーの生存と、街を敵から守り抜くことです。
 
 
 ## Controls
