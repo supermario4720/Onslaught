@@ -1,10 +1,9 @@
-# Onslaught
+# Onslaught!
 
-## Description
+## Description / 概要
 A 2D top view rogue-like game made by Haratake Kentaro. The game includes tower defence aspects by allowing players to place towers. The objective is that the player stays alive while protecting the town from enemies. 
 
-## 概要
-原武健太郎によって制作された、2Dトップビューのアクションローグライクゲームです。建築物（防衛塔など）の設置といったタワーディフェンス要素もあります。ゲームの目的はプレイヤーの生存と、街を敵から守り抜くことです。
+Onslaught!(猛攻撃という意味)原武健太郎によって制作された、2Dトップビューのアクションローグライクゲームです。建築物（防衛塔など）の設置といったタワーディフェンス要素もあります。ゲームの目的はプレイヤーの生存と、街を敵から守り抜くことです。
 
 ## Setup
 The game can be played by opening the Onslaught.exe file, located inside the Onslaught_build folder. The .exe file must be in the same location as the resources folder.
@@ -23,14 +22,14 @@ E                            -> Switch mode (Build mode <-> Attack mode)      / 
 
 R (During build mode only)   -> Switch building (Archer tower > Wall > loop)  /  建築物変更（狙撃等 > 壁 > ループ（戻る））
 
-## How to Play
+## How to Play / 遊び方
 Once the game starts, enemies will start spawning and head towards you and the town (castle like building). You must survive for 3 minutes, while also protecting the town.
 
 The player is able to place defensive towers to help protect the town from enemies. To do so, switch to build mode and click where you want to place building. Creating buildings requires materials, which can be collected by destroying trees and rocks on the field. You can check the materials you have by clicking "Inventory" below the health and stamina bar at the top left of the screen.
 
 2 minutes in the game, a wave of enemies will begin spawning. Prepare your defences by then to protect the town from enemies for 1 minute!
 
-## 遊び方
+
 ゲーム開始直後、敵がわきはじめて、プレイヤーと街（城っぽい建物）に向かい、攻撃してきます。街を３分間守り抜きながら生き残れ！
 
 プレイヤーは街の防衛に役立つ、防衛建築物をたてられます。建築をするには、まず建築モードへと切り替えていき、建築物を建てたい場所をクリックします。
