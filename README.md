@@ -14,22 +14,22 @@ Library used / 使用ライブラリー: Simple Fast Media Library
 
 
 ## How to start / 起動方法　（Windows 10）
-The game can be played by opening the Onslaught.exe file, located inside the windows_build folder. The .exe file must be in the same location as the resources folder.
+The game can be played by opening the Onslaught.exe file, located inside the Onslaught_windows folder. The .exe file must be in the same location as the resources folder.
 
 ** If windows security does not allow you to start Onslaught.exe, you must open the file directly from Terminal/PowerShell. 
 Steps :
-1. Open the windows_build folder.
+1. Open the Onslaught_windows folder.
 2. Shift+Right click some open space in the folder
 3. Click on "Open PowerShell Window here"
 4. Type " ./Onslaught.exe " in the PowerShell window and press enter
 
 
 
-ゲームは　windows_build　内にある実行ファイル　Onslaught.exe　を開くと起動する。このファイルは　resourcesと同じ場所でないと起動しません。
+ゲームは　Onslaught_windows　内にある実行ファイル　Onslaught.exe　を開くと起動する。このファイルは　resourcesと同じ場所でないと起動しません。
 
 ＊＊WindowsセキュリティーでOnslaught.exeが開かない場合、ファイルを Terminal/PowerShell で直接開けます。
 手順　：
-1. windows_build フォルダーを開く
+1. Onslaught_windows フォルダーを開く
 2. フォルダー内の空白（どこでも）を　Shift + 右クリック
 3. PowerShellウィンドウをここで開く　をクリック
 4. PowerShellが開くと、そこに " ./Onslaught.exe " を入力し、Enterキーを押す
@@ -37,7 +37,7 @@ Steps :
 
 
 ## How to start / 起動方法　（macOS）
-The game can be played by clicking on the executable file, located inside the macos_build folder. The folder containing the executable must also contain the resources folder.
+The game can be played by clicking on the executable file, located inside the Onslaught_mac folder. The folder containing the executable must also contain the resources folder.
 
 ** If the game does not react to keyboard inputs, you must give permission for input monitoring for the Onslaught executable.
 Steps :
@@ -48,7 +48,7 @@ Steps :
 
 
 
-ゲームは　macos_build　フォルダー内にある実行ファイルをクリックすると起動します。実行ファイルが入っているフォルダーには、resourcesフォルダーも同じ場所に置く必要があります。
+ゲームは　Onslaught_mac　フォルダー内にある実行ファイルをクリックすると起動します。実行ファイルが入っているフォルダーには、resourcesフォルダーも同じ場所に置く必要があります。
 
 ＊＊キーボード入力が反応しない場合、Onslaught実行ファイルに「入力監視」の許可を与える必要があります。
 手順　：
