@@ -1,6 +1,6 @@
 # Onslaught!
 * Can be downloaded in the "Releases" section in this repository
-* ReleasesにてOnslaught!をだうんろーどできます。
+* ReleasesにてOnslaught!の実行ファイルをダウンロードできます。
 
 
 ## Description / 概要
