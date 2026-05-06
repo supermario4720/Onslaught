@@ -80,3 +80,12 @@ https://ninjikin.itch.io/trees
 
 Logs (wood)  /　原木
 https://frostwindz.itch.io/pixel-art-wood
+
+
+Music  /　音楽
+
+2:23 AM		written by しゃろう
+https://dova-s.jp/bgm/detail/13494
+
+Morning		written by しゃろう
+https://dova-s.jp/bgm/detail/2445
