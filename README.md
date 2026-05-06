@@ -1,4 +1,7 @@
 # Onslaught!
+* Can be downloaded in the "Releases" section in this repository
+* ReleasesにてOnslaught!をだうんろーどできます。
+
 
 ## Description / 概要
 A 2D top view rogue-like game made by Haratake Kentaro. The game includes tower defence aspects by allowing players to place towers. The objective is that the player stays alive while protecting the town from enemies. 
