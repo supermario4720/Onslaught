@@ -39,6 +39,16 @@ Steps :
 ## How to start / 起動方法　（macOS）
 The game can be played by clicking on the executable file, located inside the Onslaught_mac folder. The folder containing the executable must also contain the resources folder.
 
+** If your mac security does not allow you to start Onslaught, you can bypass it with these steps
+Steps :
+1. Right click the Onslaught executable
+2. Click open
+3. 
+
+
+
+
+
 ** If the game does not react to keyboard inputs, you must give permission for input monitoring for the Onslaught executable.
 Steps :
 1. Open System Settings
