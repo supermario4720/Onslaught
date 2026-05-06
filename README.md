@@ -43,10 +43,8 @@ The game can be played by clicking on the executable file, located inside the On
 Steps :
 1. Right click the Onslaught executable
 2. Click open
-3. 
-
-
-
+3. Click Open in the confirmation message that pops up
+4. Allow access for necessary files
 
 
 ** If the game does not react to keyboard inputs, you must give permission for input monitoring for the Onslaught executable.
@@ -59,6 +57,13 @@ Steps :
 
 
 ゲームは　Onslaught_mac　フォルダー内にある実行ファイルをクリックすると起動します。実行ファイルが入っているフォルダーには、resourcesフォルダーも同じ場所に置く必要があります。
+
+＊＊Macのセキュリティ設定によりOnslaughtを起動できない場合は、以下の手順で開くことができます。
+手順　：
+1. Onslaughtの実行ファイルを右クリックする
+2. 「開く」をクリック
+3. 表示される確認メッセージで「開く」をクリック
+4. 必要なファイルへのアクセスを許可する
 
 ＊＊キーボード入力が反応しない場合、Onslaught実行ファイルに「入力監視」の許可を与える必要があります。
 手順　：
