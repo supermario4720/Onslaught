@@ -10,7 +10,7 @@ Language used / 使用言語: C++
 Library used / 使用ライブラリー: Simple Fast Media Library
 
 
-## How to start / 起動方法　（Windows10）
+## How to start / 起動方法　（Windows 10）
 The game can be played by opening the Onslaught.exe file, located inside the windows_build folder. The .exe file must be in the same location as the resources folder.
 
 ** If windows security does not allow you to start Onslaught.exe, you must open the file directly from Terminal/PowerShell. 
